@@ -30,10 +30,12 @@ Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extrac
 
 ### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
-Testing and quality-engineering case study for a PHP/MySQL fashion-commerce platform, covering functional, security, end-to-end, data-integrity, and non-functional testing.
+Testing and quality-engineering case study for a PHP/MySQL fashion-commerce platform, covering commerce calculations, HTTP integration, Selenium UI automation, an end-to-end shopping journey, and smoke verification.
 
-**Stack:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions  
-**Evidence:** 131 documented tests; limitations and unresolved results are reported in the case study  
+**Stack:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions
+
+**Evidence:** 74 automated checks across unit, HTTP integration, UI, end-to-end, and smoke layers
+
 **Links:** Public case study · Source code private
 
 ## More projects
