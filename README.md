@@ -1,54 +1,53 @@
 # Nguyễn Quốc Hùng
 
-Software Engineer working across full-stack applications, mobile systems, and applied AI/ML projects.
+Software Engineer focused on full-stack products, mobile applications, and applied AI/ML.
 
-I build end-to-end products with clear service boundaries, practical testing, and observable deployments. My recent work spans React Native and NestJS microservices, React/Expo commerce platforms, PHP/MySQL quality engineering, computer vision, and NLP.
+I build end-to-end systems with clear service boundaries, practical testing, and observable deployments. My work spans React and React Native interfaces, TypeScript services, PHP/MySQL commerce systems, computer vision, and NLP.
 
-## Selected projects
+## Featured work
 
-### [AI Personal Finance](https://github.com/Plinh-Ctuyen-QHung-VHau/quan-ly-tai-chinh)
+### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
-Team-built mobile finance platform with transaction and budget management, receipt OCR, an AI finance assistant, anomaly detection, and system monitoring.
+AI-assisted mobile finance platform for transactions, budgeting, receipt OCR, financial guidance, anomaly detection, and operational monitoring.
 
-- **My contribution:** 22 commits as [@nqhung212](https://github.com/nqhung212)
-- **Stack:** React Native, Expo, NestJS, TypeScript, Supabase PostgreSQL, Gemini, Tesseract.js, Docker, Prometheus, Grafana
-- **Architecture:** API Gateway plus Identity, Transaction, OCR, Budget/Notification, and Finance Intelligence services
-- [Project demo](https://drive.google.com/drive/u/0/folders/1DmiLFqAQDG6AMn9rlcI195tgFObR39Mf)
+**Stack:** React Native · Expo · NestJS · TypeScript · Supabase PostgreSQL · Gemini · Tesseract.js · Docker · Prometheus · Grafana  
+**Links:** [Project demo](https://drive.google.com/drive/u/0/folders/1DmiLFqAQDG6AMn9rlcI195tgFObR39Mf) · Source code private
 
-### [FastFood Platform](https://github.com/nqh-labs/fastfood-platform-showcase)
+### [FastFood Platform](https://github.com/nqhung212/fastfood-platform)
 
-Cross-platform food ordering system with web and mobile clients, Supabase-backed authentication/data, and MoMo sandbox payment callbacks.
+Cross-platform food-ordering system with web and mobile clients, Supabase-backed authentication and data, order flows, delivery tracking, and MoMo sandbox payments. I developed the React/Vite web client as part of the project team.
 
-- **My role:** Web application — React and Vite
-- **Stack:** React, Vite, Expo, React Native, Node.js, Express, Supabase, MoMo
-- **Public material:** Sanitized case study; implementation remains private
+**Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo  
+**Links:** Public case study · Source code private
 
-### [ZStyle Quality Engineering](https://github.com/nqh-labs/zstyle-quality-showcase)
+### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
 
-PHP/MySQL fashion-commerce project documented through a 131-test quality program.
+Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extraction plus Kernel SVM for railway-track image classification.
 
-- **Coverage:** customer, admin, security, end-to-end, data-integrity, and non-functional testing
-- **Recorded result:** 116 passing and 15 failing tests
-- **Stack:** PHP, MySQL, PHPUnit, Selenium, Docker, GitHub Actions
-- [Team repository](https://github.com/Plinh-Ctuyen-QHung-VHau/Zstyle)
+**Stack:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter  
+**Recorded results:** ~95.5% fine-tuned ResNet50 · ~90.9% ResNet50 features + SVM  
+**Links:** Public case study · Source code and model artifacts private
 
-### [Railway Track Defect Detection](https://github.com/nqh-labs/railway-defect-detection-showcase)
+### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
-Image-classification study comparing fine-tuned ResNet50 with ResNet50 feature extraction plus Kernel SVM.
+Testing and quality-engineering case study for a PHP/MySQL fashion-commerce platform, covering functional, security, end-to-end, data-integrity, and non-functional testing.
 
-- **Recorded accuracy:** ~95.5% for fine-tuned ResNet50; ~90.9% for ResNet50 + SVM
-- **Contribution evidence:** 3 commits from [@nqhung212](https://github.com/nqhung212)
-- **Stack:** Python, TensorFlow, scikit-learn, OpenCV, Jupyter
-- [Collaborative repository](https://github.com/Plinh-Ctuyen-QHung-VHau/Railway-Track-Fault-Detection)
+**Stack:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions  
+**Evidence:** 131 documented tests; limitations and unresolved results are reported in the case study  
+**Links:** Public case study · Source code private
 
-## Additional work
+## More projects
 
-- [English–French Translation with LSTM](https://github.com/nqh-labs/en-fr-translation-showcase) — BiLSTM/LSTM encoder–decoder workflow on Multi30K
-- [VFC E-Commerce](https://github.com/nqh-labs/vfc-ecommerce-showcase) — public overview of a private PHP commerce project
-- [NLP Learning Projects](https://github.com/nqh-labs/nlp-learning-showcase) — attention-based Seq2Seq and Transformer coursework
-- [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — supporting tooling and workflow material, not a featured product
+- [English–French Neural Translation](https://github.com/nqhung212/english-french-neural-translation) — BiLSTM/LSTM encoder–decoder workflow on Multi30K
+- [NLP Experiments](https://github.com/nqhung212/nlp-experiments) — attention-based Seq2Seq and Transformer learning work
+- [VFC E-Commerce](https://github.com/nqhung212/vfc-ecommerce) — historical PHP/MySQL commerce project overview
+- [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — reusable standards and workflows for AI-assisted development
+- [Career Portfolio](https://github.com/nqhung212/career-portfolio) — professional profile and résumé materials
 
-## Career
+## Core stack
 
-- [Career portfolio](https://github.com/nqhung212/career-portfolio)
-- [Engineering lab](https://github.com/nqh-labs)
+TypeScript · JavaScript · React · React Native · Node.js · NestJS · PHP · Python · PostgreSQL · MySQL · Docker · GitHub Actions
+
+## Contact
+
+<kbd>Contact</kbd>
