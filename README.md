@@ -4,6 +4,7 @@ Software engineer focused on maintainable web applications and AI-assisted engin
 
 ## Public work
 
+- [nqh-labs](https://github.com/nqh-labs) — private-source engineering lab with a public repository policy.
 - [Career & Portfolio](https://github.com/nqhung212/career-portfolio) — sanitized resume and selected case studies.
 - [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — reusable standards, agent instructions, and delivery templates.
 
