@@ -11,14 +11,14 @@ I build end-to-end systems with clear service boundaries, practical testing, and
 AI-assisted mobile finance platform for transactions, budgeting, receipt OCR, financial guidance, anomaly detection, and operational monitoring.
 
 **Stack:** React Native · Expo · NestJS · TypeScript · Supabase PostgreSQL · Gemini · Tesseract.js · Docker · Prometheus · Grafana  
-**Links:** [Project demo](https://drive.google.com/drive/u/0/folders/1DmiLFqAQDG6AMn9rlcI195tgFObR39Mf) · Source code private
+**Links:** [Project demo](https://drive.google.com/drive/u/0/folders/1DmiLFqAQDG6AMn9rlcI195tgFObR39Mf) · 
 
 ### [FastFood Platform](https://github.com/nqhung212/fastfood-platform)
 
 Cross-platform food-ordering system with web and mobile clients, Supabase-backed authentication and data, order flows, delivery tracking, and MoMo sandbox payments. I developed the React/Vite web client as part of the project team.
 
 **Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo  
-**Links:** Public case study · Source code private
+**Links:** Public case study · 
 
 ### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
 
@@ -26,7 +26,7 @@ Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extrac
 
 **Stack:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter  
 **Recorded results:** ~95.5% fine-tuned ResNet50 · ~90.9% ResNet50 features + SVM  
-**Links:** Public case study · Source code and model artifacts private
+**Links:** Public case study · 
 
 ### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
@@ -36,7 +36,7 @@ Testing and quality-engineering case study for a PHP/MySQL fashion-commerce plat
 
 **Evidence:** 74 automated checks across unit, HTTP integration, UI, end-to-end, and smoke layers
 
-**Links:** Public case study · Source code private
+**Links:** Public case study · 
 
 ## More projects
 
