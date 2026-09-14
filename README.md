@@ -5,9 +5,7 @@ I build end-to-end systems with clear service boundaries, practical testing, and
 
 ## Featured work
 
-### [HookCheck](https://github.com/nqh-labs/HookCheck)
-
-[Case study](https://github.com/nqhung212/career-portfolio/blob/main/projects/hookcheck.md)
+### [HookCheck](https://github.com/nqhung212/HookCheck)
 
 Webhook inspection tool for developers and QA: capture original requests, check method/header/JSON expectations, and compare new events with preserved historical results.
 
@@ -29,7 +27,6 @@ Cross-platform food-ordering system with web and mobile clients, Supabase-backed
 
 **Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo
 
-
 ### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
 
 Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extraction plus Kernel SVM for railway-track image classification.
@@ -38,7 +35,6 @@ Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extrac
 
 **Recorded results:** ~95.5% fine-tuned ResNet50 · ~90.9% ResNet50 features + SVM
 
-
 ### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
 Testing and quality-engineering case study for a PHP/MySQL fashion-commerce platform, covering commerce calculations, HTTP integration, Selenium UI automation, an end-to-end shopping journey, and smoke verification.
@@ -46,7 +42,6 @@ Testing and quality-engineering case study for a PHP/MySQL fashion-commerce plat
 **Stack:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions
 
 **Coverage:** 74 executable test methods across unit, HTTP integration, UI, end-to-end, and smoke suites
-
 
 ## More projects
 
