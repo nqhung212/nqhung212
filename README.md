@@ -13,8 +13,6 @@ Temporary webhook inspection inbox that preserves original request bytes, evalua
 
 **Evidence:** Exact-byte capture across seven HTTP methods, transactional quota tests, browser lifecycle checks, container HTTPS rehearsal, and documented rollback/restore gates
 
-**Source:** Private, maintained in [nqh-labs](https://github.com/nqh-labs)
-
 ### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
 AI-assisted mobile finance platform for transactions, budgeting, receipt OCR, financial guidance, anomaly detection, and operational monitoring.
