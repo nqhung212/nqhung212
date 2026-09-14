@@ -5,7 +5,9 @@ I build end-to-end systems with clear service boundaries, practical testing, and
 
 ## Featured work
 
-### [HookCheck](https://github.com/nqhung212/career-portfolio/blob/main/projects/hookcheck.md)
+### [HookCheck](https://github.com/nqh-labs/HookCheck)
+
+[Case study](https://github.com/nqhung212/career-portfolio/blob/main/projects/hookcheck.md)
 
 Webhook inspection tool for developers and QA: capture original requests, check method/header/JSON expectations, and compare new events with preserved historical results.
 
