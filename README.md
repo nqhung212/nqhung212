@@ -1,32 +1,45 @@
 # Nguyễn Quốc Hùng
 
 Software Engineer focused on full-stack products, mobile applications, and applied AI/ML.
-
 I build end-to-end systems with clear service boundaries, practical testing, and observable deployments. My work spans React and React Native interfaces, TypeScript services, PHP/MySQL commerce systems, computer vision, and NLP.
 
 ## Featured work
+
+### HookCheck
+
+Temporary webhook inspection inbox that preserves original request bytes, evaluates immutable rules, and provides private browser inspection with transactional quotas and expiry cleanup.
+
+**Stack:** TypeScript · Node.js · PostgreSQL · Nunjucks · Docker · Playwright · GitHub Actions
+
+**Evidence:** Exact-byte capture across seven HTTP methods, transactional quota tests, browser lifecycle checks, container HTTPS rehearsal, and documented rollback/restore gates
+
+**Source:** Private, maintained in [nqh-labs](https://github.com/nqh-labs)
 
 ### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
 AI-assisted mobile finance platform for transactions, budgeting, receipt OCR, financial guidance, anomaly detection, and operational monitoring.
 
-**Stack:** React Native · Expo · NestJS · TypeScript · Supabase PostgreSQL · Gemini · Tesseract.js · Docker · Prometheus · Grafana  
-**Links:** [Project demo](https://drive.google.com/drive/u/0/folders/1DmiLFqAQDG6AMn9rlcI195tgFObR39Mf) 
+**Stack:** React Native · Expo · NestJS · TypeScript · Supabase PostgreSQL · Gemini · Tesseract.js · Docker · Prometheus · Grafana
+
+**Links:** [Project demo](https://drive.google.com/drive/u/0/folders/1DmiLFqAQDG6AMn9rlcI195tgFObR39Mf)
 
 ### [FastFood Platform](https://github.com/nqhung212/fastfood-platform)
 
 Cross-platform food-ordering system with web and mobile clients, Supabase-backed authentication and data, order flows, delivery tracking, and MoMo sandbox payments. I developed the React/Vite web client as part of the project team.
 
-**Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo  
-**Links:** Public case study 
+**Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo
+
+**Links:** Public case study
 
 ### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
 
 Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extraction plus Kernel SVM for railway-track image classification.
 
-**Stack:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter  
-**Recorded results:** ~95.5% fine-tuned ResNet50 · ~90.9% ResNet50 features + SVM  
-**Links:** Public case study 
+**Stack:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter
+
+**Recorded results:** ~95.5% fine-tuned ResNet50 · ~90.9% ResNet50 features + SVM
+
+**Links:** Public case study
 
 ### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
@@ -36,7 +49,7 @@ Testing and quality-engineering case study for a PHP/MySQL fashion-commerce plat
 
 **Evidence:** 74 automated checks across unit, HTTP integration, UI, end-to-end, and smoke layers
 
-**Links:** Public case study 
+**Links:** Public case study
 
 ## More projects
 
