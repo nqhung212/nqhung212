@@ -5,13 +5,13 @@ I build end-to-end systems with clear service boundaries, practical testing, and
 
 ## Featured work
 
-### HookCheck
+### [HookCheck](https://github.com/nqhung212/career-portfolio/blob/main/projects/hookcheck.md)
 
-Temporary webhook inspection inbox that preserves original request bytes, evaluates immutable rules, and provides private browser inspection with transactional quotas and expiry cleanup.
+Webhook inspection tool for developers and QA: capture original requests, check method/header/JSON expectations, and compare new events with preserved historical results.
 
-**Stack:** TypeScript · Node.js · PostgreSQL · Nunjucks · Docker · Playwright · GitHub Actions
+**Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright
 
-**Evidence:** Exact-byte capture across seven HTTP methods, transactional quota tests, browser lifecycle checks, container HTTPS rehearsal, and documented rollback/restore gates
+**Status:** Local MVP implemented; public deployment and user validation are pending.
 
 ### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
@@ -27,7 +27,6 @@ Cross-platform food-ordering system with web and mobile clients, Supabase-backed
 
 **Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo
 
-**Links:** Public case study
 
 ### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
 
@@ -37,7 +36,6 @@ Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extrac
 
 **Recorded results:** ~95.5% fine-tuned ResNet50 · ~90.9% ResNet50 features + SVM
 
-**Links:** Public case study
 
 ### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
@@ -45,14 +43,12 @@ Testing and quality-engineering case study for a PHP/MySQL fashion-commerce plat
 
 **Stack:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions
 
-**Evidence:** 74 automated checks across unit, HTTP integration, UI, end-to-end, and smoke layers
+**Coverage:** 74 executable test methods across unit, HTTP integration, UI, end-to-end, and smoke suites
 
-**Links:** Public case study
 
 ## More projects
 
 - [English–French Neural Translation](https://github.com/nqhung212/english-french-neural-translation) — BiLSTM/LSTM encoder–decoder workflow on Multi30K
-- [NLP Experiments](https://github.com/nqhung212/nlp-experiments) — attention-based Seq2Seq and Transformer learning work
 - [VFC E-Commerce](https://github.com/nqhung212/vfc-ecommerce) — historical PHP/MySQL commerce project overview
 - [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — reusable standards and workflows for AI-assisted development
 - [Career Portfolio](https://github.com/nqhung212/career-portfolio) — professional profile and résumé materials
@@ -61,6 +57,3 @@ Testing and quality-engineering case study for a PHP/MySQL fashion-commerce plat
 
 TypeScript · JavaScript · React · React Native · Node.js · NestJS · PHP · Python · PostgreSQL · MySQL · Docker · GitHub Actions
 
-## Contact
-
-<kbd>Contact</kbd>
