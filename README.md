@@ -7,11 +7,9 @@ I build end-to-end systems with clear service boundaries, practical testing, and
 
 ### [HookCheck](https://github.com/nqhung212/HookCheck)
 
-Webhook inspection tool for developers and QA: capture original requests, check method/header/JSON expectations, and compare new events with preserved historical results.
+Built a webhook inspection workspace that preserves request bytes across seven HTTP methods, checks method/header/JSON rules, and keeps each receipt's results unchanged. Deployed the containerized service on Google Cloud with HTTPS, PostgreSQL, monitoring, backup/restore, and a separate Kubernetes environment.
 
-**Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright
-
-**Status:** Local MVP implemented; public deployment and user validation are pending.
+**Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright · Google Cloud · Terraform · Kubernetes
 
 ### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
