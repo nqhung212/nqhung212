@@ -39,24 +39,12 @@ Tôi phát triển ứng dụng web, di động và các tính năng AI/ML. Tôi
 
 **Công nghệ:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo
 
-#### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
-
-- So sánh hai cách phát hiện lỗi đường ray từ ảnh: tinh chỉnh ResNet50 và dùng đặc trưng từ ResNet50 kết hợp Kernel SVM.
-- Mô hình ResNet50 được tinh chỉnh đạt độ chính xác khoảng 95,5%; phương pháp kết hợp Kernel SVM đạt khoảng 90,9%.
-
-**Công nghệ:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter
-
-#### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
-
-- Xây dựng bộ kiểm thử tự động cho website bán hàng PHP/MySQL, từ các phép tính và API đến thao tác trên trình duyệt và toàn bộ quy trình mua hàng.
-- Bộ kiểm thử gồm 74 bài kiểm thử, bao phủ các mức unit, integration, UI, end-to-end và smoke test.
-
-**Công nghệ:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions
-
 ### Dự án khác
 
 - [English–French Neural Translation](https://github.com/nqhung212/english-french-neural-translation) — mô hình dịch Anh–Pháp dùng BiLSTM/LSTM trên bộ dữ liệu Multi30K
 - [VFC E-Commerce](https://github.com/nqhung212/vfc-ecommerce) — giới thiệu dự án bán hàng PHP/MySQL trước đây
+- [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection) — so sánh hai phương pháp phân loại lỗi đường ray; độ chính xác lần lượt khoảng 95,5% và 90,9%
+- [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering) — bộ kiểm thử tự động với 74 bài kiểm thử cho website bán hàng PHP/MySQL
 - [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — bộ quy chuẩn và quy trình dùng lại khi phát triển phần mềm với AI
 - [Career Portfolio](https://github.com/nqhung212/career-portfolio) — hồ sơ nghề nghiệp và tài liệu ứng tuyển
 
@@ -99,24 +87,12 @@ Software Engineer working across full-stack applications, mobile products, and a
 
 **Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo
 
-#### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
-
-- Compared fine-tuned ResNet50 against ResNet50 feature extraction with Kernel SVM for railway-track image classification.
-- Recorded approximately 95.5% accuracy with fine-tuning and 90.9% with the feature-extraction approach.
-
-**Stack:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter
-
-#### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
-
-- Built an automated test portfolio for a PHP/MySQL commerce system, covering calculations, HTTP integration, browser flows, and an end-to-end shopping journey.
-- Organized 74 executable test methods across unit, integration, UI, end-to-end, and smoke checks.
-
-**Stack:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions
-
 ### Additional work
 
 - [English–French Neural Translation](https://github.com/nqhung212/english-french-neural-translation) — BiLSTM/LSTM encoder–decoder workflow on Multi30K
 - [VFC E-Commerce](https://github.com/nqhung212/vfc-ecommerce) — historical PHP/MySQL commerce project overview
+- [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection) — compared two railway defect classification methods, with approximately 95.5% and 90.9% accuracy
+- [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering) — automated test portfolio with 74 test methods for a PHP/MySQL commerce site
 - [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — reusable standards and workflows for AI-assisted development
 - [Career Portfolio](https://github.com/nqhung212/career-portfolio) — professional profile and résumé materials
 
