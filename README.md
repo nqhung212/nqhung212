@@ -23,6 +23,8 @@ Tôi phát triển ứng dụng web, di động và các tính năng AI/ML. Tôi
 
 **Công nghệ:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright · Google Cloud · Terraform · Kubernetes
 
+**Demo:** [Video và ảnh chụp màn hình](https://drive.google.com/drive/folders/1befcKs0A1h3j_ex4TXHduDKek2GbgLXR)
+
 #### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
 - Phát triển ứng dụng quản lý tài chính cá nhân trên di động: theo dõi thu chi, lập ngân sách, đọc hóa đơn bằng OCR, đưa ra gợi ý tài chính và phát hiện giao dịch bất thường.
@@ -70,6 +72,8 @@ Software Engineer working across full-stack applications, mobile products, and a
 - Deployed the containerized service on Google Cloud with HTTPS, PostgreSQL, monitoring, encrypted backups, recovery checks, and a separate Kubernetes environment.
 
 **Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright · Google Cloud · Terraform · Kubernetes
+
+**Demo:** [Video walkthrough and screenshots](https://drive.google.com/drive/folders/1befcKs0A1h3j_ex4TXHduDKek2GbgLXR)
 
 #### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
