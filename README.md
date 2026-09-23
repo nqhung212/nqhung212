@@ -1,17 +1,21 @@
 # Nguyễn Quốc Hùng
 
 Software Engineer focused on full-stack products, mobile applications, and applied AI/ML.
-I build end-to-end systems with clear service boundaries, practical testing, and observable deployments. My work spans React and React Native interfaces, TypeScript services, PHP/MySQL commerce systems, computer vision, and NLP.
+I build end-to-end systems with clear service boundaries, practical testing, and observable deployments. My work spans React and React Native interfaces, TypeScript services, cloud infrastructure, PHP/MySQL commerce systems, computer vision, and NLP.
 
 ## Featured work
 
 ### [HookCheck](https://github.com/nqhung212/HookCheck)
 
-Webhook inspection tool for developers and QA: capture original requests, check method/header/JSON expectations, and compare new events with preserved historical results.
+An end-to-end webhook inspection workspace. Create a temporary inbox without an account, capture exact request bytes across seven HTTP methods, and check methods, headers, and JSON fields. Each receipt keeps its original rules and results, so later changes never rewrite history.
 
-**Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright
+<a href="https://github.com/nqhung212/HookCheck"><img src="https://raw.githubusercontent.com/nqhung212/HookCheck/main/assets/home.png" alt="HookCheck browser interface" width="680"></a>
 
-**Status:** Local MVP implemented; public deployment and user validation are pending.
+**Engineering:** PostgreSQL transactions keep captures and quotas consistent; the service acknowledges each request after commit. Access capabilities are separate, history is cursor based, and encrypted backup/restore is rehearsed.
+
+**Deployment:** Containerized Google Cloud deployment with HTTPS, monitoring, and a separate Kubernetes environment. Access is controlled; the cloud runtime is stopped between demonstrations.
+
+**Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright · GitHub Actions · Google Cloud · Terraform · Kubernetes
 
 ### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
@@ -52,5 +56,5 @@ Testing and quality-engineering case study for a PHP/MySQL fashion-commerce plat
 
 ## Core stack
 
-TypeScript · JavaScript · React · React Native · Node.js · NestJS · PHP · Python · PostgreSQL · MySQL · Docker · GitHub Actions
+TypeScript · JavaScript · React · React Native · Node.js · NestJS · PHP · Python · PostgreSQL · MySQL · Docker · GitHub Actions · Google Cloud · Terraform · Kubernetes
 
