@@ -1,19 +1,20 @@
 # Nguyễn Quốc Hùng
 
-Software Engineer focused on full-stack products, mobile applications, and applied AI/ML.
-I build end-to-end systems with clear service boundaries, practical testing, and observable deployments. My work spans React and React Native interfaces, TypeScript services, PHP/MySQL commerce systems, computer vision, and NLP.
+Software Engineer working across full-stack applications, mobile products, and applied AI/ML. I build the interface, service, data layer, and deployment needed to turn a working prototype into a usable system.
 
-## Featured work
+## Selected projects
 
 ### [HookCheck](https://github.com/nqhung212/HookCheck)
 
-Built a webhook inspection workspace that preserves request bytes across seven HTTP methods, checks method/header/JSON rules, and keeps each receipt's results unchanged. Deployed the containerized service on Google Cloud with HTTPS, PostgreSQL, monitoring, backup/restore, and a separate Kubernetes environment.
+- Built an account-free webhook inbox that preserves request bytes across seven HTTP methods, checks methods, headers, and JSON fields, and keeps historical results unchanged.
+- Deployed the containerized service on Google Cloud with HTTPS, PostgreSQL, monitoring, encrypted backups, recovery checks, and a separate Kubernetes environment.
 
 **Stack:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright · Google Cloud · Terraform · Kubernetes
 
 ### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
-AI-assisted mobile finance platform for transactions, budgeting, receipt OCR, financial guidance, anomaly detection, and operational monitoring.
+- Built a mobile finance platform for transaction tracking and budgeting, with receipt OCR, financial guidance, and anomaly detection.
+- Connected the Expo client to Supabase Auth/Storage and a JWT-validating gateway with five focused services; added Prometheus metrics and Grafana dashboards.
 
 **Stack:** React Native · Expo · NestJS · TypeScript · Supabase PostgreSQL · Gemini · Tesseract.js · Docker · Prometheus · Grafana
 
@@ -21,34 +22,36 @@ AI-assisted mobile finance platform for transactions, budgeting, receipt OCR, fi
 
 ### [FastFood Platform](https://github.com/nqhung212/fastfood-platform)
 
-Cross-platform food-ordering system with web and mobile clients, Supabase-backed authentication and data, order flows, delivery tracking, and MoMo sandbox payments. I developed the React/Vite web client as part of the project team.
+- Developed the React/Vite web client's product discovery, cart, checkout, account, and order flows as part of a team project.
+- The platform covers authentication, ordering, delivery tracking, and MoMo sandbox payments backed by Supabase.
 
 **Stack:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo
 
 ### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
 
-Computer-vision study comparing fine-tuned ResNet50 with ResNet50 feature extraction plus Kernel SVM for railway-track image classification.
+- Compared fine-tuned ResNet50 against ResNet50 feature extraction with Kernel SVM for railway-track image classification.
+- Recorded approximately 95.5% accuracy with fine-tuning and 90.9% with the feature-extraction approach.
 
 **Stack:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter
 
-**Recorded results:** ~95.5% fine-tuned ResNet50 · ~90.9% ResNet50 features + SVM
-
 ### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
-Testing and quality-engineering case study for a PHP/MySQL fashion-commerce platform, covering commerce calculations, HTTP integration, Selenium UI automation, an end-to-end shopping journey, and smoke verification.
+- Built an automated test portfolio for a PHP/MySQL commerce system, covering calculations, HTTP integration, browser flows, and an end-to-end shopping journey.
+- Organized 74 executable test methods across unit, integration, UI, end-to-end, and smoke checks.
 
 **Stack:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions
 
-**Coverage:** 74 executable test methods across unit, HTTP integration, UI, end-to-end, and smoke suites
-
-## More projects
+## Additional work
 
 - [English–French Neural Translation](https://github.com/nqhung212/english-french-neural-translation) — BiLSTM/LSTM encoder–decoder workflow on Multi30K
 - [VFC E-Commerce](https://github.com/nqhung212/vfc-ecommerce) — historical PHP/MySQL commerce project overview
 - [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — reusable standards and workflows for AI-assisted development
 - [Career Portfolio](https://github.com/nqhung212/career-portfolio) — professional profile and résumé materials
 
-## Core stack
+## Technical skills
 
-TypeScript · JavaScript · React · React Native · Node.js · NestJS · PHP · Python · PostgreSQL · MySQL · Docker · GitHub Actions
+- **Frontend and mobile:** React, React Native, Expo, JavaScript, TypeScript
+- **Backend and data:** Node.js, Fastify, NestJS, PHP, PostgreSQL, MySQL, Supabase
+- **Cloud and delivery:** Docker, GitHub Actions, Google Cloud, Terraform, Kubernetes, Prometheus, Grafana
+- **Testing and ML:** Playwright, Selenium, Python, TensorFlow, scikit-learn, OpenCV
 
