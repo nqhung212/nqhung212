@@ -61,28 +61,28 @@ Software Engineer working across full-stack applications, mobile products, and a
 
 ## Tiếng Việt
 
-Kỹ sư phần mềm làm việc với ứng dụng full-stack, sản phẩm di động và AI/ML ứng dụng. Tôi xây dựng giao diện, dịch vụ, lớp dữ liệu và quy trình triển khai để đưa nguyên mẫu thành hệ thống có thể sử dụng.
+Tôi phát triển ứng dụng web, di động và các tính năng AI/ML. Tôi có kinh nghiệm xây dựng giao diện, API, cơ sở dữ liệu và triển khai hệ thống để đưa sản phẩm vào sử dụng.
 
 ### Kỹ năng kỹ thuật
 
-- **Giao diện và di động:** React, React Native, Expo, JavaScript, TypeScript
-- **Backend và dữ liệu:** Node.js, Fastify, NestJS, PHP, PostgreSQL, MySQL, Supabase
-- **Đám mây và triển khai:** Docker, GitHub Actions, Google Cloud, Terraform, Kubernetes, Prometheus, Grafana
-- **Kiểm thử và học máy:** Playwright, Selenium, Python, TensorFlow, scikit-learn, OpenCV
+- **Web và di động:** React, React Native, Expo, JavaScript, TypeScript
+- **Backend và cơ sở dữ liệu:** Node.js, Fastify, NestJS, PHP, PostgreSQL, MySQL, Supabase
+- **Hạ tầng và triển khai:** Docker, GitHub Actions, Google Cloud, Terraform, Kubernetes, Prometheus, Grafana
+- **Kiểm thử và AI/ML:** Playwright, Selenium, Python, TensorFlow, scikit-learn, OpenCV
 
 ### Dự án tiêu biểu
 
 #### [HookCheck](https://github.com/nqhung212/HookCheck)
 
-- Xây dựng hộp thư nhận webhook không cần tài khoản, giữ nguyên byte của yêu cầu qua bảy phương thức HTTP, kiểm tra phương thức, header và trường JSON, đồng thời giữ nguyên kết quả lịch sử.
-- Triển khai dịch vụ bằng container trên Google Cloud với HTTPS, PostgreSQL, giám sát, sao lưu mã hóa, kiểm tra khôi phục và một môi trường Kubernetes riêng.
+- Xây dựng công cụ nhận và kiểm tra webhook không cần đăng ký tài khoản. Hệ thống lưu nguyên vẹn nội dung request ở dạng byte với cả bảy phương thức HTTP, kiểm tra method, header và trường JSON. Khi quy tắc kiểm tra thay đổi, kết quả đã ghi nhận trước đó vẫn được giữ nguyên.
+- Triển khai trên Google Cloud bằng container, dùng HTTPS và PostgreSQL; thiết lập giám sát, sao lưu có mã hóa, kiểm tra khả năng khôi phục và một môi trường Kubernetes riêng.
 
 **Công nghệ:** TypeScript · Node.js · Fastify · PostgreSQL · Nunjucks · Docker · Playwright · Google Cloud · Terraform · Kubernetes
 
 #### [AI Personal Finance](https://github.com/nqhung212/ai-personal-finance)
 
-- Xây dựng nền tảng quản lý tài chính trên di động để theo dõi giao dịch và ngân sách, tích hợp OCR hóa đơn, gợi ý tài chính và phát hiện bất thường.
-- Kết nối ứng dụng Expo với Supabase Auth/Storage và gateway xác thực JWT cùng năm dịch vụ chuyên trách; bổ sung chỉ số Prometheus và bảng điều khiển Grafana.
+- Phát triển ứng dụng quản lý tài chính cá nhân trên di động: theo dõi thu chi, lập ngân sách, đọc hóa đơn bằng OCR, đưa ra gợi ý tài chính và phát hiện giao dịch bất thường.
+- Kết nối ứng dụng Expo với Supabase Auth/Storage qua gateway xác thực JWT và năm dịch vụ riêng; theo dõi hệ thống bằng Prometheus và Grafana.
 
 **Công nghệ:** React Native · Expo · NestJS · TypeScript · Supabase PostgreSQL · Gemini · Tesseract.js · Docker · Prometheus · Grafana
 
@@ -90,29 +90,29 @@ Kỹ sư phần mềm làm việc với ứng dụng full-stack, sản phẩm di
 
 #### [FastFood Platform](https://github.com/nqhung212/fastfood-platform)
 
-- Phát triển các luồng tìm sản phẩm, giỏ hàng, thanh toán, tài khoản và đơn hàng trên ứng dụng web React/Vite trong một dự án nhóm.
-- Nền tảng hỗ trợ xác thực, đặt món, theo dõi giao hàng và thanh toán thử nghiệm qua MoMo, với Supabase ở phía sau.
+- Trong dự án nhóm, tôi phát triển giao diện web React/Vite cho các chức năng xem món, giỏ hàng, thanh toán, tài khoản và theo dõi đơn hàng.
+- Hệ thống hỗ trợ đăng nhập, đặt món, theo dõi giao hàng và thanh toán qua môi trường thử nghiệm của MoMo; dữ liệu được quản lý bằng Supabase.
 
 **Công nghệ:** React · Vite · Expo · React Native · Node.js · Express · Supabase · PostgreSQL · MoMo
 
 #### [Railway Track Fault Detection](https://github.com/nqhung212/railway-track-fault-detection)
 
-- So sánh ResNet50 được tinh chỉnh với phương pháp trích xuất đặc trưng ResNet50 kết hợp Kernel SVM để phân loại ảnh đường ray.
-- Ghi nhận độ chính xác khoảng 95,5% với mô hình tinh chỉnh và 90,9% với phương pháp trích xuất đặc trưng.
+- So sánh hai cách phát hiện lỗi đường ray từ ảnh: tinh chỉnh ResNet50 và dùng đặc trưng từ ResNet50 kết hợp Kernel SVM.
+- Mô hình ResNet50 được tinh chỉnh đạt độ chính xác khoảng 95,5%; phương pháp kết hợp Kernel SVM đạt khoảng 90,9%.
 
 **Công nghệ:** Python · TensorFlow · scikit-learn · OpenCV · Jupyter
 
 #### [ZStyle Quality Engineering](https://github.com/nqhung212/zstyle-quality-engineering)
 
-- Xây dựng bộ kiểm thử tự động cho hệ thống thương mại PHP/MySQL, bao gồm phép tính, tích hợp HTTP, luồng trình duyệt và hành trình mua sắm từ đầu đến cuối.
-- Tổ chức 74 phương thức kiểm thử có thể chạy ở các mức unit, integration, UI, end-to-end và smoke.
+- Xây dựng bộ kiểm thử tự động cho website bán hàng PHP/MySQL, từ các phép tính và API đến thao tác trên trình duyệt và toàn bộ quy trình mua hàng.
+- Bộ kiểm thử gồm 74 bài kiểm thử, bao phủ các mức unit, integration, UI, end-to-end và smoke test.
 
 **Công nghệ:** PHP · MySQL · PHPUnit · Selenium · Docker · GitHub Actions
 
 ### Dự án khác
 
-- [English–French Neural Translation](https://github.com/nqhung212/english-french-neural-translation) — quy trình dịch máy encoder–decoder BiLSTM/LSTM trên Multi30K
-- [VFC E-Commerce](https://github.com/nqhung212/vfc-ecommerce) — tổng quan dự án thương mại PHP/MySQL trước đây
-- [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — tiêu chuẩn và quy trình tái sử dụng cho phát triển có AI hỗ trợ
+- [English–French Neural Translation](https://github.com/nqhung212/english-french-neural-translation) — mô hình dịch Anh–Pháp dùng BiLSTM/LSTM trên bộ dữ liệu Multi30K
+- [VFC E-Commerce](https://github.com/nqhung212/vfc-ecommerce) — giới thiệu dự án bán hàng PHP/MySQL trước đây
+- [Agent Engineering Kit](https://github.com/nqhung212/agent-engineering-kit) — bộ quy chuẩn và quy trình dùng lại khi phát triển phần mềm với AI
 - [Career Portfolio](https://github.com/nqhung212/career-portfolio) — hồ sơ nghề nghiệp và tài liệu ứng tuyển
 
